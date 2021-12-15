@@ -1,14 +1,5 @@
-html, body {
-    height: 100%;
-    min-height: 100%;
+.beginning {
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40px;
   }
-
-body {
-    background: url(/Users/jing/mywebsite/image/background/0017910582_0.gif) center no-repeat;
-    background-color: black;
-    background-size: cover;
-    background-attachment: fixed;
-    font-family: Helvetica, Arial, sans-serif;
-    font-size: 100%;
-  }
-  
