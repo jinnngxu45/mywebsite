@@ -1,5 +1,10 @@
+* {
+    border-color: red;
+}
 .beginning {
     margin: 0 auto;
     width: 60%;
     padding-bottom: 40px;
+    border-color: red;
   }
+
